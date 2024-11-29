@@ -92,4 +92,4 @@ pip install -r requirements.txt
 Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is available for academic and educational purposes.
