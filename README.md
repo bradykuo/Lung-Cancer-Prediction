@@ -1,7 +1,8 @@
 # Lung Cancer Prediction Model
 
-## Overview
-This project implements various machine learning models to predict lung cancer based on patient symptoms and characteristics. The models analyze different health indicators to assess the likelihood of lung cancer presence, helping in early detection and diagnosis.
+This project implements various machine learning models to predict lung cancer based on patient symptoms and characteristics. The models analyze different health indicators to assess the likelihood of lung cancer presence, helping in early detection and diagnosis.<br>
+<br>
+（成大資工系｜機器學習導論與實作｜專案）
 
 ## Dataset
 The dataset is sourced from [Kaggle's Lung Cancer Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer) and includes the following features:
